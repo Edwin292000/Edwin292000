@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Edwin and I'm a Systems Engineer with experience in web, desktop, and mobile development. </h2>
+###
+
+<h4 align="left">I’m passionate about creating efficient solutions and always eager to learn. Feel free to explore my projects and connect!</h4>
 
 ###
 
